@@ -1,0 +1,5 @@
+print("Welcome to Technonotes")
+print("Welcome to\nTechnonotes")
+print("Welcome to\tTechnonotes")
+print("Welcome to \"Technonotes\" ")
+print("Welcome to \'    Technonotes\' ")
