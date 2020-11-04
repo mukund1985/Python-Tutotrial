@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cafc1285-ea53-45d3-a408-bd9e7b8b61ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/funct_def.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input_Output_In_Python/reading_writing_text_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input_Output_In_Python/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/dictionaries_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/dictionaries_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/dictionaries_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/dictionary_challange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/dictionary_challange_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/dictionary_challange_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/dictionary_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/motorbike_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Dictionaries_and_Sets/sets_2_challange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Ranges_Tuples/quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_Ranges_Tuples/quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_Ranges_Tuples/tuples_challange.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_Ranges_Tuples/tuples_challange.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1k1b7lXfygXv3eEBGJf5HFgcg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager" selected="Python.funct_def">
+    <configuration name="dictionary_challange_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Tutotrial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Dictionaries_and_Sets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Dictionaries_and_Sets/dictionary_challange_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funct_def" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Tutotrial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Function/funct_def.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Tutotrial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Dictionaries_and_Sets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Dictionaries_and_Sets/sets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sets_2_challange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Tutotrial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Dictionaries_and_Sets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Dictionaries_and_Sets/sets_2_challange.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="soln" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Tutotrial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/574_m2_codes_v3.0" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/574_m2_codes_v3.0/soln.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.funct_def" />
+        <item itemvalue="Python.soln" />
+        <item itemvalue="Python.sets_2_challange" />
+        <item itemvalue="Python.sets" />
+        <item itemvalue="Python.dictionary_challange_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cafc1285-ea53-45d3-a408-bd9e7b8b61ae" name="Default Changelist" comment="" />
+      <created>1585910272573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585910272573</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Python Tutorial">
+      <created>1585910731428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585910731428</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python Tutorial">
+      <created>1585913044308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585913044308</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Python Tutorial">
+      <created>1585913271878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585913271878</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Python Tutorial">
+      <created>1586020710615</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586020710615</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Python Tutorial">
+      <created>1586034013070</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586034013070</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Python Tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Tutorial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585910790442">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="184" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1585910790442" />
+    <state x="342" y="44" key="CommitChangelistDialog2" timestamp="1586034012961">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="342" y="43" key="CommitChangelistDialog2/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1586020710405" />
+    <state x="342" y="44" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586034012961" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom" timestamp="1586209743299">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1586174493065" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/0.23.1440.830/1440.23.1920.1057@1440.23.1920.1057" timestamp="1585988733749" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586209743299" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586141799569" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center" timestamp="1586209743298">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1586174493064" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/0.23.1440.830/1440.23.1920.1057@1440.23.1920.1057" timestamp="1585988733747" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1586209743298" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586141799568" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left" timestamp="1586209743298">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1586174493063" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/0.23.1440.830/1440.23.1920.1057@1440.23.1920.1057" timestamp="1585988733746" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1586209743298" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586141799568" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right" timestamp="1586209743299">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1586174493064" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/0.23.1440.830/1440.23.1920.1057@1440.23.1920.1057" timestamp="1585988733748" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1586209743299" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586141799569" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom" timestamp="1586041067270">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1586020802477" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1585992191673" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586041067270" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center" timestamp="1586041067269">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.center/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1586020802477" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1585992191673" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586041067269" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left" timestamp="1586041067268">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.left/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1586020802476" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1585992191672" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586041067268" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right" timestamp="1586041067269">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.right/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1586020802477" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1585992191673" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586041067269" />
+    <state x="221" y="77" key="SettingsEditor" timestamp="1585918859220">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="221" y="77" key="SettingsEditor/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1585918859220" />
+    <state x="521" y="180" key="VcsDiffUtil.ChangesDialog" timestamp="1585910877194">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="521" y="180" key="VcsDiffUtil.ChangesDialog/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1585910877194" />
+    <state x="503" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585913055407">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="503" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1585913055407" />
+    <state x="311" y="238" key="git4idea.merge.GitMergeDialog" timestamp="1585910855419">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="311" y="238" key="git4idea.merge.GitMergeDialog/0.23.1440.830/1440.23.1920.1057@0.23.1440.830" timestamp="1585910855419" />
+  </component>
+</project>
